@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junaid266
 - 👀 I’m interested in React.js
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking for an opportunity to sharpen my skills.
+- 💞️ I’m looking for an opportunity to sharpen my skills in reactjs.
 - 📫 Reach me through my email. 
 
 <!---
