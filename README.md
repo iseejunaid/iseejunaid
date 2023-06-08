@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junaid266
 - 👀 I’m interested in React.js
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for an opportunity to sharpen my skills in reactjs.
 - 📫 Reach me through my email: junaidnadeem266@gmail.com 
 
